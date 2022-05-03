@@ -1,16 +1,12 @@
 # tutorial_02
 
-A new Flutter project.
+official tutorial 02
 
-## Getting Started
+# Learning
+- Basic Layout
+- How to set up space
+- How to incorporate images
 
-This project is a starting point for a Flutter application.
+# Operation
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="center" width="300" src='https://user-images.githubusercontent.com/89247188/166410846-f87b05b8-478f-48d7-be83-2210b5713393.png'>
